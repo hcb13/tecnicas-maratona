@@ -2,8 +2,9 @@
 Implementação de técnicas vistas em sala para utilização como biblioteca nas maratonas de programação
 
 # Como trabalhar aqui no repositório?
+0. Dê um fork neste repositório
 1. Faça o clone do repositório 
-         <p>git clone https://github.com/hcb13/tecnicas-maratona.git</p>
+         <p>git clone <url do seu fork></p>
 2. Crie um novo branch
          <p>git branch <seu_nome></p>
 3. Dê um push para seu novo branch aparecer por aqui
